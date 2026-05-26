@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="17924b3b-1609-4f78-aadf-12bc6f734850.png" alt="The AI Systems Notebook Banner" width="100%" />
-
 <br/>
 
 # 📓 The AI Systems Notebook
